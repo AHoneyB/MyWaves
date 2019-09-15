@@ -10,6 +10,5 @@ void setup(){
 
 void draw(){
    background(230);
-   w.calcWave();
    w.render();
 }
